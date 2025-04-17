@@ -1,10 +1,5 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Yolande Tra</h1>
-<h3 align="center">A passionate data scientist</h3>
-
-- 📫 How to reach me **tranirina00@gmail.com**
-
-<h1 align="center">Hi 👋, I'm Yolande Tra</h1>
 <h3 align="center">A passionate data scientist, Excited to explore the future of AI and tech!</h3>
 
 - 🌱 I’m currently learning **AWS, Model Deployment**
