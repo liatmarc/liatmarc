@@ -18,7 +18,7 @@ I am a Data Scientist with a background in statistics, predictive analytics, and
 - 🧰 **Data Engineering**  
   Comfortable working with SQL and cloud platforms (AWS).
 
-## 📂 Featured Projects (Coming SOON)
+## 📂 Featured Projects (Visit the repositories)
 
 ## 📫 Let's Connect
 
